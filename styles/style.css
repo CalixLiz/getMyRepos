@@ -1,0 +1,75 @@
+
+
+
+* {
+    box-sizing: border-box;
+}
+
+
+.container{
+
+	display: flex;
+    padding: 125px 75px 0 75px;
+	font-size: 40px;
+	text-align: center;
+	column-count: 2;
+	border: 2px solid black;
+}
+
+h1{
+	font-size: 1.3rem;
+	color: #4078C0;
+}
+
+p{
+	font-size: 1rem;
+}
+
+
+img{
+	width: 36vh;
+	margin-left: 10px;
+	border-radius: 12%;
+}
+
+
+
+.profile{
+	width: 33%;
+	font-size: .7rem;
+	margin-left: 50px;
+}
+
+
+
+
+.repo{
+	width: 57%;
+	text-align: left;
+	margin-left: 30px;
+}
+
+
+
+.searchBar{
+	max-width: 100%
+	height: 90px;
+	background: black;
+	color: white;
+}
+
+
+.searCH{
+	width: 140px;
+	height: 40px;
+	margin-left: 400px;
+	border-radius: 10%;
+}
+
+
+
+
+
+
+
+
